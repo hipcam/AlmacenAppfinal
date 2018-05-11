@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlmacenApp</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
